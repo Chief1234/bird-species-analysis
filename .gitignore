@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+data/bird_data.db
+
+# Excel files (large files)
+data/*.XLSX
+data/*.xlsx
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+*
